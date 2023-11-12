@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A passionate Software Engineer from Bangalore,India</h3>
+<h3 align="center">A passionate Software Engineer currently working on AI-ML technologies from Bangalore,India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankts7" alt="shashankts7" /></a> </p>
 
